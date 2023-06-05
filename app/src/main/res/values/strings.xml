@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmploymentDetailActivity</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="employer_detail">Employer Detail</string>
+    <string name="employe_id">Employe Id</string>
+</resources>
